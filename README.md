@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sepidehafshar
+- 👋 Hi, I’m Sepideh
 - 👀 I’m interested in Machine and Deep Learning 
 - 🌱 I’m currently learning NLP and Image Processing
 - 📫 How to reach me? I am available on LinkedIn 
